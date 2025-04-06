@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "main": "hello.js",
   "scripts": {
-    "dev": "tsx watch src/types/intro.ts",
+    "dev": "tsx watch src/typo/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
