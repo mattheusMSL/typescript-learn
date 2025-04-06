@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "@types/node": "^22.2.0",
+    "typescript": "^5.5.4"
+  },
+  "name": "typescript-learn",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "dev": "tsx watch src/types/intro.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "tsx": "^4.17.0"
+  }
+}
