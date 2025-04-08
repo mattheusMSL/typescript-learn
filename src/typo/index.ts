@@ -126,6 +126,7 @@ placeOrder("Strogonoff de frango");
 placeOrder("Quatro Queijos");
 placeOrder("Churrasco");
 placeOrder("Calabresa");
+placeOrder("Portuguesa");
 
 //processOrder
 processOrder("Strogonoff de frango");
